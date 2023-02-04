@@ -1,0 +1,5 @@
+console.log(Math.max(9,8,7,6,10))
+console.log(Math.min(9,8,7,6,10))
+console.log(Math.round(10.7))
+console.log(Math.round(10.3))
+console.log(Math.floor(10.9))
